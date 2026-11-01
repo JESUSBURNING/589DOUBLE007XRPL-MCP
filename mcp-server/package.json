@@ -11,7 +11,7 @@
         "build"
     ],
     "dependencies": {
-        "@modelcontextprotocol/sdk": "^1.8.0",
+        "@modelcontextprotocol/sdk": "^1.32.2",
         "dotenv": "^16.4.7",
         "mcp-proxy": "^2.12.2",
         "xrpl": "^4.2.0",
